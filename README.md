@@ -1,10 +1,10 @@
 
-Important
-Execute the PetAdoptionMain.java to run the project
+Important:
+    Execute the PetAdoptionMain.java to run the project
 
-There are two .txt files with data to be readed
-Adopters.txt
-Pets.txt
+There are two .txt files with data to be readed:
+    Adopters.txt
+    Pets.txt
 
 
 
