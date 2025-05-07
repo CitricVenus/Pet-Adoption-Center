@@ -1,0 +1,3 @@
+D1,GIGI,Dog,3,PASTOR,false,false
+C1,MISI,Cat,3,VACA,true
+B1,LOLO,Bird,5,PERICO,true,false
